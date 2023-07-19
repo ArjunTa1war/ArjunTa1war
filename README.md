@@ -1,4 +1,4 @@
-# HEY THERE 👋:
+# hey there
 I am currently studying in Nit Hamirpur<br>My Branch is CSE<br>
 
 
