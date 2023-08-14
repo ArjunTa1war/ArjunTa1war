@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ➡️ About Me:
 🔭 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur<br>💻 I am a passionate Web Developer<br>👨‍💻 I am a competitive programmer
 
 
