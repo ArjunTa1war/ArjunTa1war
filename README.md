@@ -1,5 +1,5 @@
 # 🧑‍💻About Me:
-🔭 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur<br>💻 I am a passionate Web Developer<br>👨‍💻 I am a competitive programmer
+🔭 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur<br>💻 I am a passionate Web Developer<br>👨‍💻 I am a competitive programmer <br> 🎥 I like video editing
 
 
 # 📊 GitHub Stats:
